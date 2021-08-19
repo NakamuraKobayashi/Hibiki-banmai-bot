@@ -25,8 +25,7 @@ exports.Server_ID = "ID SERVER CỦA BẠN"; // ID Server Của Bạn
 exports.mongodb = "mongodb+srv://<profile name>:<mật khẩu>@xxxxx.xxxxx.mongodb.net/HibikiBanmaiData?retryWrites=true&w=majority"; //Chỉ nhận link Mongo Dạng này!
 exports.url_uptime = "https://hibikibanmai.nijigen.repl.co";
 ```
-<a href="https://discord4bots.ddns.net/bot/849903077690572800">
-<img src="https://discord4bots.ddns.net/bot/849903077690572800/widget"/>
+
  </a>  
 
 > # 💨 Chạy Dự Án
