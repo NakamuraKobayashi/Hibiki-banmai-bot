@@ -31,4 +31,4 @@ exports.url_uptime = "https://hibikibanmai.nijigen.repl.co";
 > # 💨 Chạy Dự Án
 
 <br>
-[[Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://replit.com/@nijigen/hibikibanmai-bot)<br>
+Repl.it https://replit.com/@nijigen/hibikibanmai-bot <br>
