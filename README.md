@@ -1,16 +1,16 @@
 # HIBIKI BAN MAI BOT
-Tên Bot : Hibiki Ban Mai
-Làm Bởi Kenji
-Chỉnh Sửa Bởi Kenji
-Đa số lệnh đều hoạt động, còn vài lệnh không hoạt động
-Tên Discord: @Kiryu Coco#2171
-Discord ID: 579566400360808459
-Github repository: [Hibiki-banmai-bot](https://github.com/KenjiKobayashi126/Hibiki-banmai-bot)
-Website Của bot : https://hibiki.banmai.repl.co/
-Tham gia máy chủ của chúng tôi
-Link: https://discord.gg/nijigenvtuberswaifu
-Chủ sở hữu: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
-Dev: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
+- Tên Bot : Hibiki Ban Mai
+- Làm Bởi Kenji
+- Chỉnh Sửa Bởi Kenji
+- Đa số lệnh đều hoạt động, còn vài lệnh không hoạt động
+- Tên Discord: @Kiryu Coco#2171
+- Discord ID: 579566400360808459
+- Github repository: [Hibiki-banmai-bot](https://github.com/KenjiKobayashi126/Hibiki-banmai-bot)
+- Website Của bot : https://hibiki.banmai.repl.co/
+- Tham gia máy chủ của chúng tôi
+- Link: https://discord.gg/nijigenvtuberswaifu
+- Chủ sở hữu: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
+- Dev: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
 
 //Config.js
 ```js
