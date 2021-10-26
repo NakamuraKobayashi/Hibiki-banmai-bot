@@ -1,7 +1,7 @@
 # HIBIKI BAN MAI BOT
 - Tên Bot : Hibiki Ban Mai
-- Làm Bởi: Kenji
-- Chỉnh Sửa Bởi: Kenji
+- Làm Bởi: Kenji, Sintya
+- Chỉnh Sửa Bởi: Kenji, Sintya
 - Đa số lệnh đều hoạt động, còn vài lệnh không hoạt động
 - Tên Discord: Sagiri Nozomi#6803
 - Discord ID: 579566400360808459
