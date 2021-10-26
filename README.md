@@ -3,14 +3,14 @@
 - Làm Bởi: Kenji
 - Chỉnh Sửa Bởi: Kenji
 - Đa số lệnh đều hoạt động, còn vài lệnh không hoạt động
-- Tên Discord: @Kiryu Coco#2171
+- Tên Discord: Sagiri Nozomi#6803
 - Discord ID: 579566400360808459
 - Github repository: [Hibiki-banmai-bot](https://github.com/KenjiKobayashi126/Hibiki-banmai-bot)
 - Website Của bot: https://hibiki.banmai.repl.co/
 - Tham gia máy chủ của chúng tôi
-- Link: https://discord.gg/nijigenvtuberswaifu
+- Link: https://discord.gg/PeaahwzQbb
 - Chủ sở hữu: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
-- Dev: Kiryu Coco#2171 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
+- Dev: Sagiri Nozomi#6803 [@KenjiKobayashi126](https://github.com/KenjiKobayashi126)
 
 //Config.js
 ```js
